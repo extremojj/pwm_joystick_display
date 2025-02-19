@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/pwm_display.uf2'
+elf = 'build/pwm_display.elf'
